@@ -1,17 +1,11 @@
-# cvut_fel_sit_zal
 
-**[SVK]**  
-Vypracované domáce úlohy z predmetu ZAL - Základy algoritmizácie na univerzite ČVUT v Prahe so študijným zameraním na sofwarové inžinierstvo a informačné technológie, predmet je vedený v programovacom jazyku python.
+# CVUT ALGORTIHM BASICS PYTHON CHALLENGES
 
-**[ENG]**  
-Processed homeworks from subject ZAL -  Algorithms Basics on CVUT university in Prague with study program  software engineering and information technologies, subject is in programming language python.
+### ENG
 
+This repository contains 4 challenges in the python programming language, which serve as preparation for the implementation exam in the subject Basics of Algorithmization at CVUT.
 
-## Overview
+### SVK
 
-- [01. Introduction](./homeworks/01_introduction/description.md)
+V tomto repozitáry sa nachádzajú 4 challenge v programovacom jazyku python, ktoré slúžia ako príprava na implementačnú skúšku z predmetu Základy Algoritmizácie na ČVUT.
 
-- [02. Python in Action]()
-
-
-adasdawdawd

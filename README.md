@@ -14,4 +14,4 @@ Processed homeworks from subject ZAL -  Algorithms Basics on CVUT university in 
 - [02. Python in Action]()
 
 
-
+adasdawdawd

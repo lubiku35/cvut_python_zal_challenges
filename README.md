@@ -22,3 +22,6 @@ V tomto repozitáry sa nachádzajú 4 challenge v programovacom jazyku python, k
   
   - **Solution in**: 35 minutes 
   - **Time of Algorithm Effectivity**: 0.0149473 s
+  
+
+- [Han Solo](./han_is_going_home/han_solo.py)
